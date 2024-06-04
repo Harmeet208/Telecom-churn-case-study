@@ -9,7 +9,7 @@ To reduce customer churn, telecom companies need to predict which customers are 
 
 This project is based on the Indian and Southeast Asian market.
 
-In this project, we are defining high-value customers based on a certain metric (mentioned later below) and predict churn only on high-value customers.
+In this project, we have to define high-value customers based on a certain metric (mentioned later below) and predict churn only on high-value customers.
 
 ### Business Objective
 The business objective is to predict the churn in the last (i.e. the ninth) month using the data (features) from the first three months. To do this task well, understanding the typical customer behaviour during churn will be helpful.
